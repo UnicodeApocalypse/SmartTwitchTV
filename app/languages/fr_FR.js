@@ -63,7 +63,7 @@ function fr_FRLang() {
     STR_CHANNELS = 'Chaînes';
     STR_CHANNEL = 'Chaîne';
     STR_GOBACK_START = "Revenir à l'écran précédent : appuyez sur Retour";
-    STR_IS_OFFLINE = "s'est terminé";
+    STR_IS_OFFLINE = "est hors ligne";
     STR_CHECK_HOST = ", vérification de l'hôte";
     STR_IS_SUB_ONLY = 'Cette vidéo est réservée aux abonnés';
     STR_IS_SUB_ONLY_ERROR = 'est un contenu réservé aux abonnés.';
